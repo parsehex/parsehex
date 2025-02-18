@@ -19,7 +19,7 @@ My most polished project, this is an AI chat app designed for lonely people to g
 
 This is an Electron app which I made as a way to assist with constructing LLM prompts to help write code. In the app, you manage a list of prompt Snippets and select Snippets & Files (in the project you're working on) to include in the prompt.
 
-#### [Sprite Generator](https://github.com/parsehex/sprite-generator)
+#### [Sprite Generator](https://github.com/parsehex/sprite-generator) ([view](https://parsehex.github.io/sprite-generator/))
 
 A recent experiment to use LLMs to generate sprite graphics.
 
