@@ -1,4 +1,27 @@
-## Hi there 👋
+## Hi, I'm Thomas / parsehex 👋 (work in progress)
+
+I'm a self-taught full stack web developer who's been programming since learning PHP in high school back in 2010.
+
+### ⚡ Tech Stack / Interests
+
+- **Web**: TypeScript, Vue.js, TailwindCSS
+- Electron
+- Python
+- AI/ML with software like [llama.cpp](https://github.com/ggml-org/llama.cpp), [whisper.cpp](https://github.com/ggerganov/whisper.cpp), [stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp)
+
+### 🔭 I’m currently working on
+
+#### [BuddyGenAI](https://github.com/parsehex/BuddyGenAI) (prototype)
+
+My most polished project, this is an AI chat app designed for lonely people to get social interaction. You can create and chat with Buddies, give them a description and can generate a profile picture for them which appears in chats.
+
+#### [Query Crafter](https://github.com/parsehex/query-crafter)
+
+This is an Electron app which I made as a way to assist with constructing LLM prompts to help write code. In the app, you manage a list of prompt Snippets and select Snippets & Files (in the project you're working on) to include in the prompt.
+
+#### [Sprite Generator](https://github.com/parsehex/sprite-generator)
+
+A recent experiment to use LLMs to generate sprite graphics.
 
 <!--
 **parsehex/parsehex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
