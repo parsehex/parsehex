@@ -15,9 +15,9 @@ I'm a self-taught full stack web developer who's been programming since learning
 
 My most polished project, this is an AI chat app designed for lonely people to get social interaction. You can create and chat with Buddies, give them a description and can generate a profile picture for them which appears in chats.
 
-#### [Query Crafter](https://github.com/parsehex/query-crafter)
+#### [TaskMate](https://github.com/parsehex/TaskMate)
 
-This is an Electron app which I made as a way to assist with constructing LLM prompts to help write code. In the app, you manage a list of prompt Snippets and select Snippets & Files (in the project you're working on) to include in the prompt.
+This is a desktop app that I made as a way to better understand programming with LLMs. In the app, you manage a list of prompt Snippets and select Snippets & Files (in the project you're working on) to include in the prompt.
 
 #### [Sprite Generator](https://github.com/parsehex/sprite-generator) ([view](https://parsehex.github.io/sprite-generator/))
 
