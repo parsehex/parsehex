@@ -17,7 +17,9 @@ My most polished project, this is an AI chat app designed for lonely people to g
 
 #### [GitCase](https://github.com/GitCase-app/GitCase)
 
-A simple app that you can Fork to get an automatic list of your repositories. This project is used for my site at <https://parsehex.github.io/>.
+A simple app that you can Fork to get an automatic list of your repositories.
+
+This project is used for my site at <https://parsehex.github.io/>.
 
 #### [aAI Art](https://github.com/parsehex/sprite-generator) ([view](https://parsehex.github.io/aAI-Art/))
 
@@ -26,7 +28,3 @@ An experiment to use LLMs to generate sprite graphics.
 #### [TaskMate](https://github.com/parsehex/TaskMate)
 
 This is a desktop app that I made as a way to better understand programming with LLMs. In the app, you manage a list of prompt Snippets and select Snippets & Files (in the project you're working on) to include in the prompt.
-
-----
-
-[parsehex.github.io](https://parsehex.github.io/)
