@@ -19,7 +19,7 @@ My most polished project, this is an AI chat app designed for lonely people to g
 
 A simple app that you can Fork to get an automatic list of your repositories.
 
-This project is used for my site at <https://parsehex.github.io/>.
+This project is used for my own root github.io site at <https://parsehex.github.io/>
 
 #### [aAI Art](https://github.com/parsehex/sprite-generator) ([view](https://parsehex.github.io/aAI-Art/))
 
