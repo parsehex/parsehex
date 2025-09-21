@@ -11,15 +11,15 @@ I'm a self-taught full stack web developer who's been programming since learning
 
 ### I’m working on
 
+#### [Project Depot Gallery](https://github.com/ProjectDepot/Gallery)
+
+An app that you can fork to get an easy auto-generated list of your repositories.
+
+This project is used for my own root github.io site at <https://parsehex.github.io/>
+
 #### [buddyGenAI](https://github.com/parsehex/BuddyGenAI) (prototype)
 
-My most polished project, this is an AI chat app designed for lonely people to get social interaction. You can create and chat with AI buddies, give them a description and you can generate a profile picture for them which appears in-chat.
-
-#### [GitCase](https://github.com/GitCase-app/GitCase)
-
-A simple app that you can Fork to get an easy list of your repositories.
-
-This project is used for my own auto-generated root github.io site at <https://parsehex.github.io/>
+This is an AI chat app designed for lonely people to get social interaction. You can create and chat with AI buddies, give them a description and you can generate a profile picture for them which appears in-chat.
 
 #### [aAI Art](https://github.com/parsehex/sprite-generator) ([view](https://parsehex.github.io/aAI-Art/))
 
