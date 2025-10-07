@@ -1,4 +1,4 @@
-## Hi, I'm Thomas / parsehex 👋 (work in progress)
+## Hi, I'm Thomas / parsehex 👋
 
 I'm a self-taught full stack web developer who's been programming since learning PHP in high school back in 2010.
 
