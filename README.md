@@ -1,6 +1,6 @@
 ## Hi, I'm Thomas / parsehex 👋
 
-I'm a self-taught web developer who's been programming since learning PHP back in 2010. Here's a bit of what I'm up to:
+Here's a bit of what I'm up to (updates pending):
 
 - A [forkable app](https://github.com/ProjectDepot/Gallery) to generate an automatic portfolio from your GitHub profile -- [you might be on it right now](https://parsehex.github.io/).
 - I've been reviving old & weird projects, starting with reimagining the blog [Daily False Facts](https://dailyfalsefacts.com). Other pointless things include [Not Your Weather](http://parsehex.github.io/not-your-weather/) and my GitHub profile [as an incremental game](https://parsehex.github.io/git-outta-here/).
